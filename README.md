@@ -14,7 +14,12 @@ A lightweight, self-hosted system monitoring solution.
 * **Frontend:** Built with **Svelte 5** for real-time data visualization.
 * **Architecture:** Agent-based collection (`gotrics-node`) with a central orchestrator (`gotrics-server`).
 
-[**View Server Code**](https://github.com/MathDesigns/gotrics-server) • [**View Frontend Code**](https://github.com/MathDesigns/gotrics-front)
+### 📂 GoTrics Ecosystem
+| Component | Status | Description |
+| :--- | :--- | :--- |
+| **[gotrics-server](...)** | 🟡 In progress  | The brain. Orchestrates agents and stores metrics. |
+| **[gotrics-node](...)** | 🟡 In progress  | The agent. Runs on client machines to gather data. |
+| **[gotrics-front](...)** | 🟡 In progress | The eyes. Admin dashboard for visualizing data. |
 
 ---
 
