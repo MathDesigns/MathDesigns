@@ -1,17 +1,42 @@
-# Hi 👋, I'm Mathéo S. (MathDesigns)
+# Hi 👋, I'm Mathéo S.
 
-### A passionate Svelte developer
+### Full Stack Developer specializing in **Go**, **Java**, and **Svelte**.
 
-- 🌱 I'm currently learning **Svelte 5 and Go Gin Framework**
+I build scalable backend systems and reactive frontends. My focus is on creating lightweight, high-performance tooling and infrastructure solutions.
 
-- 👯 I'm looking to collaborate on **FOSS projects**
+---
 
-- 📫 Reach me at **math@mathdesigns.dev**
+### 🚀 Featured Project
 
-- 👨‍💻 Visit me at **[https://mathdesigns.dev](https://mathdesigns.dev)**
+**[GoTrics](https://github.com/MathDesigns/gotrics-server)**
+A lightweight, self-hosted system monitoring solution.
+* **Backend:** Written in **Go (Gin)** for high-throughput metrics collection.
+* **Frontend:** Built with **Svelte 5** for real-time data visualization.
+* **Architecture:** Agent-based collection (`gotrics-node`) with a central orchestrator (`gotrics-server`).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+[**View Server Code**](https://github.com/MathDesigns/gotrics-server) • [**View Frontend Code**](https://github.com/MathDesigns/gotrics-front)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MathDesigns&" alt="MathDesigns" /></p>
+---
 
+### 🛠 Tech Stack
+
+**Backend & Infrastructure**
+<p>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go,java,cs,docker,postgres,redis,linux,git" height="40" alt="Backend Tools" />
+  </a>
+</p>
+
+**Frontend**
+<p>
+  <a href="https://svelte.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=svelte,ts,tailwind,html,css" height="40" alt="Frontend Tools" />
+  </a>
+</p>
+
+---
+
+### 📫 Connect
+* **Website:** [mathdesigns.dev](https://mathdesigns.dev)
+* **Email:** [math@mathdesigns.dev](mailto:math@mathdesigns.dev)
+* **Open Source:** I am open to collaborating on Go/Svelte tooling and FOSS projects.
