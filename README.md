@@ -17,9 +17,9 @@ A lightweight, self-hosted system monitoring solution.
 ### 📂 GoTrics Ecosystem
 | Component | Status | Description |
 | :--- | :--- | :--- |
-| **[gotrics-server](...)** | 🟡 In progress  | The brain. Orchestrates agents and stores metrics. |
-| **[gotrics-node](...)** | 🟡 In progress  | The agent. Runs on client machines to gather data. |
-| **[gotrics-front](...)** | 🟡 In progress | The eyes. Admin dashboard for visualizing data. |
+| **[gotrics-server](https://github.com/MathDesigns/gotrics-server)** | 🟡 In progress  | The brain. Orchestrates agents and stores metrics. |
+| **[gotrics-node](https://github.com/MathDesigns/gotrics-node)** | 🟡 In progress  | The agent. Runs on client machines to gather data. |
+| **[gotrics-front](https://github.com/MathDesigns/gotrics-front)** | 🟡 In progress | The eyes. Admin dashboard for visualizing data. |
 
 ---
 
