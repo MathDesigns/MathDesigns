@@ -29,7 +29,7 @@ A lightweight, self-hosted system monitoring solution.
 **Backend & Infrastructure**
 <p>
   <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go,java,cs,docker,postgres,redis,linux,git" height="40" alt="Backend Tools" />
+    <img src="https://skillicons.dev/icons?i=java,cs,docker,postgres,redis,linux,git" height="40" alt="Backend Tools" />
   </a>
 </p>
 
